@@ -1,3 +1,4 @@
+const { ethers } = require('ethers');// this is not correct way
 const { ethers } = require('ethers');
 
 const infuraUrl = 'https://sepolia.infura.io/v3/375a1b214c4c4af3b2c30a6378c5e729';
